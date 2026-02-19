@@ -2,8 +2,7 @@
 
 <div align="center">
   
-  ![Portfolio Preview](https://bharat-poojari.vercel.app/)
-
+ 
   ### 🌟 Live Demo: [bharat-poojari.vercel.app](https://bharat-poojari.vercel.app)
 
   [![Vercel Deployment](https://img.shields.io/badge/Vercel-Deployed-success?style=for-the-badge&logo=vercel)](https://bharat-poojari.vercel.app)
@@ -368,4 +367,5 @@ If you like this project, please consider:
 
 
 </div>
+
 
