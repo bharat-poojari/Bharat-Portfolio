@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  ![Portfolio Preview](https://github.com/bharat-poojari/Bharat-Portfolio/images/projects/portfolio.png)
+  ![Portfolio Preview](https://bharat-poojari.vercel.app/)
 
   ### 🌟 Live Demo: [bharat-poojari.vercel.app](https://bharat-poojari.vercel.app)
 
@@ -368,3 +368,4 @@ If you like this project, please consider:
 
 
 </div>
+
