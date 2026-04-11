@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  ![Portfolio Preview](https://bharat-poojari.vercel.app/images/favicon/32x32.png)
+  ![Portfolio Preview](https://bharat-poojari.vercel.app/images/favicon/192x192.png)
 
   ### 🌟 Live Demo: [bharat-poojari.vercel.app](https://bharat-poojari.vercel.app)
 
@@ -386,11 +386,9 @@ If you like this project, please consider:
 
 ### Made with ❤️ by Bharat Poojari
 
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://bharat-poojari.vercel.app)
-
-[![forthebadge](https://forthebadge.com/images/badges/uses-html.svg)](https://validator.w3.org/)
-
-[![forthebadge](https://forthebadge.com/images/badges/uses-css.svg)](https://jigsaw.w3.org/css-validator/)
+[![Built With Love](https://forthebadge.com/images/badges/built-with-love.svg)](https://bharat-poojari.vercel.app)
+[![Uses HTML](https://forthebadge.com/images/badges/uses-html.svg)](https://validator.w3.org/)
+[![Uses CSS](https://forthebadge.com/images/badges/uses-css.svg)](https://jigsaw.w3.org/css-validator/)
 
 **© 2026 Bharat Poojari. All Rights Reserved.**
 
