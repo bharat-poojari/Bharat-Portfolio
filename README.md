@@ -387,7 +387,9 @@ If you like this project, please consider:
 ### Made with ❤️ by Bharat Poojari
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://bharat-poojari.vercel.app)
-[![forthebadge](https://forthebadge.com/images/badges/validated-html5.svg)](https://validator.w3.org/)
+
+[![forthebadge](https://forthebadge.com/images/badges/uses-html.svg)](https://validator.w3.org/)
+
 [![forthebadge](https://forthebadge.com/images/badges/uses-css.svg)](https://jigsaw.w3.org/css-validator/)
 
 **© 2026 Bharat Poojari. All Rights Reserved.**
