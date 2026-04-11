@@ -19,20 +19,22 @@
     <a href="#-contributing"><strong>Contributing</strong></a>
   </p>
 </div>
----
+
+
 ## Screenshots
 
-<div style="display: flex; overflow-x: auto; gap: 10px; padding: 10px 0;">
-  <img src="https://raw.githubusercontent.com/bharat-poojari/Bharat-Portfolio/main/images/screenshot/Screenshot.jpg" height="250">
-  <img src="https://raw.githubusercontent.com/bharat-poojari/Bharat-Portfolio/main/images/screenshot/Screenshot1.jpg" height="250">
-  <img src="https://raw.githubusercontent.com/bharat-poojari/Bharat-Portfolio/main/images/screenshot/Screenshot2.jpg" height="250">
-  <img src="https://raw.githubusercontent.com/bharat-poojari/Bharat-Portfolio/main/images/screenshot/Screenshot3.jpg" height="250">
-  <img src="https://raw.githubusercontent.com/bharat-poojari/Bharat-Portfolio/main/images/screenshot/Screenshot4.jpg" height="250">
-  <img src="https://raw.githubusercontent.com/bharat-poojari/Bharat-Portfolio/main/images/screenshot/Screenshot5.jpg" height="250">
-  <img src="https://raw.githubusercontent.com/bharat-poojari/Bharat-Portfolio/main/images/screenshot/Screenshot6.jpg" height="250">
-  <img src="https://raw.githubusercontent.com/bharat-poojari/Bharat-Portfolio/main/images/screenshot/Screenshot7.jpg" height="250">
+<div style="white-space: nowrap; overflow-x: auto; padding: 10px 0;">
+  <img src="https://raw.githubusercontent.com/bharat-poojari/Bharat-Portfolio/main/images/screenshot/Screenshot.jpg" height="250" style="display:inline-block; margin-right:10px;">
+  <img src="https://raw.githubusercontent.com/bharat-poojari/Bharat-Portfolio/main/images/screenshot/Screenshot1.jpg" height="250" style="display:inline-block; margin-right:10px;">
+  <img src="https://raw.githubusercontent.com/bharat-poojari/Bharat-Portfolio/main/images/screenshot/Screenshot2.jpg" height="250" style="display:inline-block; margin-right:10px;">
+  <img src="https://raw.githubusercontent.com/bharat-poojari/Bharat-Portfolio/main/images/screenshot/Screenshot3.jpg" height="250" style="display:inline-block; margin-right:10px;">
+  <img src="https://raw.githubusercontent.com/bharat-poojari/Bharat-Portfolio/main/images/screenshot/Screenshot4.jpg" height="250" style="display:inline-block; margin-right:10px;">
+  <img src="https://raw.githubusercontent.com/bharat-poojari/Bharat-Portfolio/main/images/screenshot/Screenshot5.jpg" height="250" style="display:inline-block; margin-right:10px;">
+  <img src="https://raw.githubusercontent.com/bharat-poojari/Bharat-Portfolio/main/images/screenshot/Screenshot6.jpg" height="250" style="display:inline-block; margin-right:10px;">
+  <img src="https://raw.githubusercontent.com/bharat-poojari/Bharat-Portfolio/main/images/screenshot/Screenshot7.jpg" height="250" style="display:inline-block;">
 </div>
----
+
+
 ## 📋 Table of Contents
 
 - [🌟 Features](#-features)
