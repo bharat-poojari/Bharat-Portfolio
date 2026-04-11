@@ -333,7 +333,7 @@ Contributions are what make the open source community such an amazing place to l
 - Maintain responsive design
 - Update documentation
 
----
+
 
 ## 📄 License
 
@@ -348,7 +348,6 @@ Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files...
 ```
 
----
 
 ## 📞 Contact
 
@@ -359,19 +358,15 @@ of this software and associated documentation files...
 
 [![Email](https://img.shields.io/badge/Email-bharatp0316%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:bharatp0316@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-bharat--poojari.vercel.app-blue?style=for-the-badge&logo=vercel)](https://bharat-poojari.vercel.app)
-<<<<<<< HEAD
 [![GitHub](https://img.shields.io/badge/GitHub-bharat--poojari-black?style=for-the-badge&logo=github)](https://github.com/bharat-poojari)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-bharat--poojari-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/bharat-poojari-397618359)
 [![Kaggle](https://img.shields.io/badge/Kaggle-bharatpoojari03-blue?style=for-the-badge&logo=kaggle)](https://kaggle.com/bharatpoojari03)
-=======
 [![GitHub](https://img.shields.io/badge/GitHub-bharat0316--a-black?style=for-the-badge&logo=github)](https://github.com/bharat-poojari)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-bharat--poojari-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/bharat-poojari-397618359)
 [![Kaggle](https://img.shields.io/badge/Kaggle-bharatpoojari-blue?style=for-the-badge&logo=kaggle)](https://kaggle.com/bharatpoojari03)
->>>>>>> 478e766 (image upload)
 
 </div>
 
----
 
 ## 🙏 Acknowledgments
 
@@ -381,7 +376,6 @@ of this software and associated documentation files...
 - **Formspree** - For contact form handling
 - **Open Source Community** - For inspiration and tools
 
----
 
 ## ⭐ Support
 
@@ -391,7 +385,6 @@ If you like this project, please consider:
 - Following me on GitHub 👨‍💻
 - Connecting on LinkedIn 🤝
 
----
 
 <div align="center">
 
