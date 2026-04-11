@@ -208,9 +208,9 @@ A new "Desktop Mode" has been introduced as a beta feature, transforming the por
 
 | Platform | Profile | Purpose |
 |----------|---------|---------|
-| **GitHub** | [@bharat0316-a](https://github.com/bharat-poojari) | Code portfolio, open source |
+| **GitHub** | [@bharat-poojari](https://github.com/bharat-poojari) | Code portfolio, open source |
 | **LinkedIn** | [bharat-poojari](www.linkedin.com/in/bharat-poojari-397618359) | Professional networking |
-| **Kaggle** | [bharatpoojari](https://www.kaggle.com/bharatpoojari03) | Data science projects |
+| **Kaggle** | [bharatpoojari03](https://www.kaggle.com/bharatpoojari03) | Data science projects |
 | **Email** | bharatp0316@gmail.com | Direct contact |
 
 ### **SEO Scorecard**
