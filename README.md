@@ -7,9 +7,9 @@
   ### 🌟 Live Demo: [bharat-poojari.vercel.app](https://bharat-poojari.vercel.app)
 
   [![Vercel Deployment](https://img.shields.io/badge/Vercel-Deployed-success?style=for-the-badge&logo=vercel)](https://bharat-poojari.vercel.app)
-  [![GitHub stars](https://img.shields.io/github/stars/bharat0316-a/Bharat-Portfolio?style=for-the-badge&logo=github)](https://github.com/bharat0316-a/Bharat-Portfolio/stargazers)
-  [![GitHub forks](https://img.shields.io/github/forks/bharat0316-a/Bharat-Portfolio?style=for-the-badge&logo=github)](https://github.com/bharat0316-a/Bharat-Portfolio/network)
-  [![GitHub license](https://img.shields.io/github/license/bharat0316-a/Bharat-Portfolio?style=for-the-badge)](https://github.com/bharat0316-a/Bharat-Portfolio/blob/main/LICENSE)
+  [![GitHub stars](https://img.shields.io/github/stars/bharat0316-a/Bharat-Portfolio?style=for-the-badge&logo=github)](https://github.com/bharat-poojari/bharat-Portfolio/stargazers)
+  [![GitHub forks](https://img.shields.io/github/forks/bharat0316-a/Bharat-Portfolio?style=for-the-badge&logo=github)](https://github.com/bharat-poojari/Bharat-Portfolio/network)
+  [![GitHub license](https://img.shields.io/github/license/bharat0316-a/Bharat-Portfolio?style=for-the-badge)](https://github.com/bharat-poojari/Bharat-Portfolio/blob/main/LICENSE)
   
   <p align="center">
     <a href="#-features"><strong>Explore Features</strong></a> •
@@ -208,9 +208,9 @@ A new "Desktop Mode" has been introduced as a beta feature, transforming the por
 
 | Platform | Profile | Purpose |
 |----------|---------|---------|
-| **GitHub** | [@bharat0316-a](https://github.com/bharat0316-a) | Code portfolio, open source |
-| **LinkedIn** | [bharat-poojari](https://linkedin.com/in/bharat-poojari) | Professional networking |
-| **Kaggle** | [bharatpoojari](https://kaggle.com/bharatpoojari) | Data science projects |
+| **GitHub** | [@bharat0316-a](https://github.com/bharat-poojari) | Code portfolio, open source |
+| **LinkedIn** | [bharat-poojari](www.linkedin.com/in/bharat-poojari-397618359) | Professional networking |
+| **Kaggle** | [bharatpoojari](https://www.kaggle.com/bharatpoojari03) | Data science projects |
 | **Email** | bharatp0316@gmail.com | Direct contact |
 
 ### **SEO Scorecard**
@@ -300,7 +300,7 @@ Contributions are what make the open source community such an amazing place to l
 
 1. **Fork the Project**
    ```bash
-   git clone https://github.com/yourusername/Bharat-Portfolio.git
+   git clone https://github.com/bharat-poojari/Bharat-Portfolio.git
    cd Bharat-Portfolio
    ```
 
@@ -337,7 +337,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ```
 MIT License
 
-Copyright (c) 2025 Bharat Poojari
+Copyright (c) 2026 Bharat Poojari
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files...
@@ -354,9 +354,9 @@ of this software and associated documentation files...
 
 [![Email](https://img.shields.io/badge/Email-bharatp0316%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:bharatp0316@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-bharat--poojari.vercel.app-blue?style=for-the-badge&logo=vercel)](https://bharat-poojari.vercel.app)
-[![GitHub](https://img.shields.io/badge/GitHub-bharat0316--a-black?style=for-the-badge&logo=github)](https://github.com/bharat0316-a)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-bharat--poojari-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/bharat-poojari)
-[![Kaggle](https://img.shields.io/badge/Kaggle-bharatpoojari-blue?style=for-the-badge&logo=kaggle)](https://kaggle.com/bharatpoojari)
+[![GitHub](https://img.shields.io/badge/GitHub-bharat0316--a-black?style=for-the-badge&logo=github)](https://github.com/bharat-poojari)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-bharat--poojari-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/bharat-poojari-397618359)
+[![Kaggle](https://img.shields.io/badge/Kaggle-bharatpoojari-blue?style=for-the-badge&logo=kaggle)](https://kaggle.com/bharatpoojari03)
 
 </div>
 
@@ -390,6 +390,6 @@ If you like this project, please consider:
 [![forthebadge](https://forthebadge.com/images/badges/validated-html5.svg)](https://validator.w3.org/)
 [![forthebadge](https://forthebadge.com/images/badges/uses-css.svg)](https://jigsaw.w3.org/css-validator/)
 
-**© 2025 Bharat Poojari. All Rights Reserved.**
+**© 2026 Bharat Poojari. All Rights Reserved.**
 
 </div>
