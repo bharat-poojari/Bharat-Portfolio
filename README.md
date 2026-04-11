@@ -208,9 +208,15 @@ A new "Desktop Mode" has been introduced as a beta feature, transforming the por
 
 | Platform | Profile | Purpose |
 |----------|---------|---------|
+<<<<<<< HEAD
 | **GitHub** | [@bharat-poojari](https://github.com/bharat-poojari) | Code portfolio, open source |
 | **LinkedIn** | [bharat-poojari](www.linkedin.com/in/bharat-poojari-397618359) | Professional networking |
 | **Kaggle** | [bharatpoojari03](https://www.kaggle.com/bharatpoojari03) | Data science projects |
+=======
+| **GitHub** | [@bharat0316-a](https://github.com/bharat-poojari) | Code portfolio, open source |
+| **LinkedIn** | [bharat-poojari](www.linkedin.com/in/bharat-poojari-397618359) | Professional networking |
+| **Kaggle** | [bharatpoojari](https://www.kaggle.com/bharatpoojari03) | Data science projects |
+>>>>>>> 478e766 (image upload)
 | **Email** | bharatp0316@gmail.com | Direct contact |
 
 ### **SEO Scorecard**
@@ -354,9 +360,15 @@ of this software and associated documentation files...
 
 [![Email](https://img.shields.io/badge/Email-bharatp0316%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:bharatp0316@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-bharat--poojari.vercel.app-blue?style=for-the-badge&logo=vercel)](https://bharat-poojari.vercel.app)
+<<<<<<< HEAD
 [![GitHub](https://img.shields.io/badge/GitHub-bharat--poojari-black?style=for-the-badge&logo=github)](https://github.com/bharat-poojari)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-bharat--poojari-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/bharat-poojari-397618359)
 [![Kaggle](https://img.shields.io/badge/Kaggle-bharatpoojari03-blue?style=for-the-badge&logo=kaggle)](https://kaggle.com/bharatpoojari03)
+=======
+[![GitHub](https://img.shields.io/badge/GitHub-bharat0316--a-black?style=for-the-badge&logo=github)](https://github.com/bharat-poojari)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-bharat--poojari-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/bharat-poojari-397618359)
+[![Kaggle](https://img.shields.io/badge/Kaggle-bharatpoojari-blue?style=for-the-badge&logo=kaggle)](https://kaggle.com/bharatpoojari03)
+>>>>>>> 478e766 (image upload)
 
 </div>
 
