@@ -1057,11 +1057,12 @@ function initProjects() {
     const filterButtons = document.querySelectorAll('#projects-filter .filter-btn');
     const noProjectsMessage = document.getElementById('no-projects');
 
-    const projects = [{
+    const projects = [
+        {
             id: 1,
             title: "Portfolio Website",
-            description: "Responsive portfolio website with smooth animations and modern design principles. Built with pure HTML, CSS, and JavaScript.",
-            technologies: ["HTML", "CSS", "JavaScript"],
+            description: "Modern, responsive portfolio website showcasing my skills, projects, and professional journey. Features interactive terminal, animated skill bubbles, and smooth scrolling.",
+            technologies: ["HTML5", "CSS3", "JavaScript"],
             category: "frontend",
             status: "completed",
             image: "images/projects/portfolio.png",
@@ -1069,92 +1070,192 @@ function initProjects() {
             github1s: "https://github1s.com/bharat-poojari/Bharat-Portfolio",
             details: {
                 features: [
+                    "Interactive terminal with command execution",
+                    "Animated skill bubbles visualization",
+                    "Dark/Light theme toggle",
                     "Fully responsive design",
-                    "Smooth scroll animations",
-                    "Interactive elements",
-                    "Modern UI/UX principles",
-                    "Optimized performance"
+                    "Dynamic project filtering",
+                    "PDF certificate viewer"
                 ],
-                challenges: "Creating a balance between visual appeal and performance while maintaining accessibility standards.",
-                solutions: "Implemented CSS Grid and Flexbox for layout, used Intersection Observer API for animations, and optimized images for fast loading.",
-                timeline: "2 weeks",
+                challenges: "Creating an engaging portfolio that stands out while maintaining performance and accessibility.",
+                solutions: "Implemented custom animations using CSS and JavaScript, used Intersection Observer for scroll animations, and optimized asset loading.",
+                timeline: "Ongoing",
                 role: "Full-stack Developer"
             }
         },
         {
             id: 2,
-            title: "Dynamic College Website",
-            description: "Dynamic college website for JMJ with interactive pages and admin panel functionality. Includes content management system.",
-            technologies: ["HTML", "CSS", "JavaScript", "PHP", "MySQL"],
-            category: "fullstack",
-            status: "completed",
-            image: "images/projects/dynamiccollege.png",
-            liveDemo: "https://jmj-institution.kesug.com",
-            github: null,
-            github1s: null,
-            details: {
-                features: [
-                    "Dynamic content management",
-                    "Admin panel for content updates",
-                    "Responsive design",
-                    "Contact forms",
-                    "Image gallery",
-                    "Event management"
-                ],
-                challenges: "Implementing a secure admin panel while maintaining ease of use for non-technical users.",
-                solutions: "Created a custom CMS with role-based access control and an intuitive interface for content management.",
-                timeline: "4 weeks",
-                role: "Full-stack Developer"
-            }
-        },
-        {
-            id: 3,
             title: "Code Polish",
-            description: "VS Code extension for beautifying and minifying code with one click functionality. Supports multiple programming languages.",
-            technologies: ["TypeScript", "VS Code API"],
+            description: "VS Code extension for beautifying and minifying code with one-click functionality. Supports multiple programming languages including HTML, CSS, JavaScript, and Python.",
+            technologies: ["TypeScript", "VS Code API", "Node.js"],
             category: "extension",
             status: "completed",
             image: "images/projects/codepolish.png",
-            liveDemo: null,
             github: "https://github.com/bharat-poojari/codepolish",
             github1s: "https://github1s.com/bharat-poojari/codepolish",
             details: {
                 features: [
                     "One-click code formatting",
-                    "Support for multiple languages",
-                    "Customizable formatting rules",
-                    "Keyboard shortcuts",
-                    "Real-time preview"
+                    "Support for HTML, CSS, JavaScript, Python",
+                    "Minification and beautification options",
+                    "Custom keyboard shortcuts",
+                    "Configurable formatting rules",
+                    "Status bar integration"
                 ],
-                challenges: "Integrating with VS Code's extension API and handling different code formatting requirements.",
-                solutions: "Leveraged VS Code's Language Server Protocol and created configurable formatting rules.",
-                timeline: "3 weeks",
+                challenges: "Integrating with VS Code's extension API and handling different language-specific formatting requirements.",
+                solutions: "Leveraged VS Code's Language Server Protocol and created configurable formatters for each language type.",
+                timeline: "2 weeks",
                 role: "Extension Developer"
             }
         },
         {
-            id: 4,
-            title: "Offyai Programming Assistant",
-            description: "AI-powered programming assistant model for code optimization and debugging assistance using machine learning.",
-            technologies: ["Python", "Machine Learning", "AI", "NLP"],
+            id: 3,
+            title: "OffyAI Programming Assistant",
+            description: "AI-powered programming assistant model for code optimization, debugging assistance, and intelligent code suggestions using machine learning algorithms.",
+            technologies: ["Python", "Machine Learning", "AI", "NLP", "Flask"],
             category: "backend",
             status: "development",
             image: "images/projects/offyai.jpg",
-            liveDemo: null,
-            github: null,
-            github1s: null,
+            github: "https://github.com/bharat-poojari/offyai",
+            github1s: "https://github1s.com/bharat-poojari/offyai",
             details: {
                 features: [
                     "Code optimization suggestions",
-                    "Debugging assistance",
-                    "Natural language processing",
-                    "Learning from user patterns",
-                    "Multi-language support"
+                    "Intelligent debugging assistance",
+                    "Natural language processing for code understanding",
+                    "Multi-language code analysis",
+                    "Pattern recognition for bug detection",
+                    "Performance improvement recommendations"
                 ],
-                challenges: "Training the model to understand programming context and provide accurate suggestions.",
-                solutions: "Used transfer learning with pre-trained models and fine-tuned on programming-specific datasets.",
-                timeline: "Ongoing",
+                challenges: "Training the model to understand programming context and provide accurate, context-aware suggestions across different languages.",
+                solutions: "Used transfer learning with pre-trained models and fine-tuned on programming-specific datasets. Implemented AST parsing for deeper code understanding.",
+                timeline: "Ongoing development",
                 role: "AI Developer"
+            }
+        },
+        {
+            id: 4,
+            title: "Student Management System",
+            description: "Comprehensive student management system with CRUD operations, attendance tracking, and grade management. Built with a clean, intuitive interface.",
+            technologies: ["HTML", "CSS", "JavaScript", "PHP", "MySQL"],
+            category: "fullstack",
+            status: "completed",
+            image: "images/projects/student-management.jpg",
+            github: "https://github.com/bharat-poojari/student-management-system",
+            github1s: "https://github1s.com/bharat-poojari/student-management-system",
+            details: {
+                features: [
+                    "Student registration and profile management",
+                    "Attendance tracking system",
+                    "Grade and marks management",
+                    "Admin dashboard with analytics",
+                    "Search and filter functionality",
+                    "Export data to CSV/PDF"
+                ],
+                challenges: "Designing a scalable database structure and implementing secure user authentication for different user roles.",
+                solutions: "Created a normalized MySQL database schema, implemented session-based authentication with role-based access control.",
+                timeline: "3 weeks",
+                role: "Full-stack Developer"
+            }
+        },
+        {
+            id: 5,
+            title: "Restaurant Website",
+            description: "Modern restaurant website with online menu, reservation system, and gallery showcase. Features a responsive design optimized for all devices.",
+            technologies: ["HTML5", "CSS3", "JavaScript", "Bootstrap"],
+            category: "frontend",
+            status: "completed",
+            image: "images/projects/restaurant.jpg",
+            github: "https://github.com/bharat-poojari/restaurant",
+            github1s: "https://github1s.com/bharat-poojari/restaurant",
+            details: {
+                features: [
+                    "Interactive menu with categories",
+                    "Online table reservation form",
+                    "Image gallery with lightbox",
+                    "Google Maps integration",
+                    "Contact form with validation",
+                    "Mobile-first responsive design"
+                ],
+                challenges: "Creating an engaging user experience that showcases the restaurant's ambiance while ensuring fast load times.",
+                solutions: "Used lazy loading for images, implemented CSS Grid for responsive layouts, and optimized all assets for web delivery.",
+                timeline: "1 week",
+                role: "Frontend Developer"
+            }
+        },
+        {
+            id: 6,
+            title: "PrimeNews",
+            description: "Real-time news aggregator that fetches and displays news from multiple sources. Features category filtering, search functionality, and responsive card layout.",
+            technologies: ["HTML", "CSS", "JavaScript", "News API"],
+            category: "frontend",
+            status: "completed",
+            image: "images/projects/primenews.jpg",
+            github: "https://github.com/bharat-poojari/PrimeNews",
+            github1s: "https://github1s.com/bharat-poojari/PrimeNews",
+            details: {
+                features: [
+                    "Real-time news fetching from multiple sources",
+                    "Category-based filtering (Business, Tech, Sports, etc.)",
+                    "Search functionality with debouncing",
+                    "Responsive news card layout",
+                    "Infinite scroll pagination",
+                    "Bookmark favorite articles"
+                ],
+                challenges: "Handling API rate limits and ensuring smooth user experience with real-time data updates.",
+                solutions: "Implemented client-side caching, debounced search queries, and optimized API calls with proper error handling.",
+                timeline: "1 week",
+                role: "Frontend Developer"
+            }
+        },
+        {
+            id: 7,
+            title: "VOLCANICO",
+            description: "Dynamic volcanic activity monitoring and information platform. Features real-time data visualization, educational content, and interactive maps.",
+            technologies: ["HTML5", "CSS3", "JavaScript", "Chart.js", "Leaflet.js"],
+            category: "frontend",
+            status: "completed",
+            image: "images/projects/volcanico.jpg",
+            github: "https://github.com/bharat-poojari/VOLCANICO",
+            github1s: "https://github1s.com/bharat-poojari/VOLCANICO",
+            details: {
+                features: [
+                    "Interactive world map with volcano markers",
+                    "Real-time volcanic activity data",
+                    "Data visualization with Chart.js",
+                    "Educational volcano information",
+                    "Search and filter volcanoes",
+                    "Responsive design for all devices"
+                ],
+                challenges: "Integrating multiple data sources and creating smooth, performant map interactions with large datasets.",
+                solutions: "Used Leaflet.js for lightweight mapping, implemented data clustering for markers, and optimized rendering with virtual scrolling.",
+                timeline: "2 weeks",
+                role: "Frontend Developer"
+            }
+        },
+        {
+            id: 8,
+            title: "College Website",
+            description: "Dynamic college website for JMJ Institution with interactive pages, admin panel, and content management system for easy updates.",
+            technologies: ["HTML", "CSS", "JavaScript", "PHP", "MySQL"],
+            category: "fullstack",
+            status: "completed",
+            image: "images/projects/college-website.jpg",
+            liveDemo: "https://jmj-institution.kesug.com",
+            github1s: "https://github1s.com/bharat-poojari/college-website",
+            details: {
+                features: [
+                    "Dynamic content management system",
+                    "Admin panel for easy updates",
+                    "Course and department pages",
+                    "Faculty profiles",
+                    "Event calendar and announcements",
+                    "Student portal integration"
+                ],
+                challenges: "Implementing a secure admin panel while maintaining ease of use for non-technical staff members.",
+                solutions: "Created a custom CMS with WYSIWYG editor, role-based access control, and an intuitive interface for content management.",
+                timeline: "4 weeks",
+                role: "Full-stack Developer"
             }
         }
     ];
