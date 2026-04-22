@@ -7,9 +7,9 @@
   ### 🌟 Live Demo: [bharat-poojari.vercel.app](https://bharat-poojari.vercel.app)
 
   [![Vercel Deployment](https://img.shields.io/badge/Vercel-Deployed-success?style=for-the-badge&logo=vercel)](https://bharat-poojari.vercel.app)
-  [![GitHub stars](https://img.shields.io/github/stars/bharat0316-a/Bharat-Portfolio?style=for-the-badge&logo=github)](https://github.com/bharat-poojari/bharat-Portfolio/stargazers)
-  [![GitHub forks](https://img.shields.io/github/forks/bharat0316-a/Bharat-Portfolio?style=for-the-badge&logo=github)](https://github.com/bharat-poojari/Bharat-Portfolio/network)
-  [![GitHub license](https://img.shields.io/github/license/bharat0316-a/Bharat-Portfolio?style=for-the-badge)](https://github.com/bharat-poojari/Bharat-Portfolio/blob/main/LICENSE)
+  [![GitHub stars](https://img.shields.io/github/stars/bharat-poojari/Bharat-Portfolio?style=for-the-badge&logo=github)](https://github.com/bharat-poojari/bharat-Portfolio/stargazers)
+  [![GitHub forks](https://img.shields.io/github/forks/bharat-poojari/Bharat-Portfolio?style=for-the-badge&logo=github)](https://github.com/bharat-poojari/Bharat-Portfolio/network)
+  [![GitHub license](https://img.shields.io/github/license/bharat-poojari/Bharat-Portfolio?style=for-the-badge)](https://github.com/bharat-poojari/Bharat-Portfolio/blob/main/LICENSE)
   
   <p align="center">
     <a href="#-features"><strong>Explore Features</strong></a> •
@@ -154,7 +154,7 @@ A new "Desktop Mode" has been introduced as a beta feature, transforming the por
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/bharat0316-a/Bharat-Portfolio.git
+   git clone https://github.com/bharat-poojari/Bharat-Portfolio.git
    cd Bharat-Portfolio
    ```
 
@@ -213,7 +213,7 @@ A new "Desktop Mode" has been introduced as a beta feature, transforming the por
 
 <!-- Contact Information -->
 <meta name="email" content="bharatp0316@gmail.com">
-<meta name="github" content="https://github.com/bharat0316-a">
+<meta name="github" content="https://github.com/bharat-poojari">
 <meta name="linkedin" content="https://linkedin.com/in/bharat-poojari">
 ```
 
@@ -226,7 +226,7 @@ A new "Desktop Mode" has been introduced as a beta feature, transforming the por
 | **LinkedIn** | [bharat-poojari](www.linkedin.com/in/bharat-poojari-397618359) | Professional networking |
 | **Kaggle** | [bharatpoojari03](https://www.kaggle.com/bharatpoojari03) | Data science projects |
 =======
-| **GitHub** | [@bharat0316-a](https://github.com/bharat-poojari) | Code portfolio, open source |
+| **GitHub** | [@bharat-poojari](https://github.com/bharat-poojari) | Code portfolio, open source |
 | **LinkedIn** | [bharat-poojari](www.linkedin.com/in/bharat-poojari-397618359) | Professional networking |
 | **Kaggle** | [bharatpoojari](https://www.kaggle.com/bharatpoojari03) | Data science projects |
 | **Email** | bharatp0316@gmail.com | Direct contact |
@@ -374,7 +374,7 @@ of this software and associated documentation files...
 [![GitHub](https://img.shields.io/badge/GitHub-bharat--poojari-black?style=for-the-badge&logo=github)](https://github.com/bharat-poojari)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-bharat--poojari-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/bharat-poojari-397618359)
 [![Kaggle](https://img.shields.io/badge/Kaggle-bharatpoojari03-blue?style=for-the-badge&logo=kaggle)](https://kaggle.com/bharatpoojari03)
-[![GitHub](https://img.shields.io/badge/GitHub-bharat0316--a-black?style=for-the-badge&logo=github)](https://github.com/bharat-poojari)
+[![GitHub](https://img.shields.io/badge/GitHub-bharat--poojari-black?style=for-the-badge&logo=github)](https://github.com/bharat-poojari)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-bharat--poojari-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/bharat-poojari-397618359)
 [![Kaggle](https://img.shields.io/badge/Kaggle-bharatpoojari-blue?style=for-the-badge&logo=kaggle)](https://kaggle.com/bharatpoojari03)
 
