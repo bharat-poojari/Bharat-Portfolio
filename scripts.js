@@ -927,16 +927,6 @@ async function initLiveProjects() {
     };
     const fullStackRepos = new Set(['furniqo', 'student-management-system', 'college-website']);
     const desktopRepos = new Set(['offyai', 'offyai-website']);
-    const galleryPaths = {
-        offyai: ['frontend/public/images/offyai.png'],
-        furniqo: ['frontend/public/homepage.png', 'frontend/public/productpage.png', 'frontend/public/inspirationpage.png', 'frontend/public/mob-res1.png', 'frontend/public/mob-res2.png', 'frontend/public/mob-res3.png'],
-        'bharat-portfolio': ['images/projects/portfolio.png', ...Array.from({ length: 8 }, (_, index) => `images/screenshot/Screenshot${index || ''}.jpg`)],
-        codepolish: ['screenshots/Screenshot.jpg', 'screenshots/Screenshot1.jpg', 'screenshots/after-beautify.png', 'screenshots/after-minify.png', 'screenshots/before-beautify.png', 'screenshots/before-minify.png'],
-        primenews: Array.from({ length: 5 }, (_, index) => `src/screenshots/s${index + 1}.png`),
-        'offyai-website': ['offyai.png'],
-        offy_ai: ['offyai.png']
-    };
-
     function render(projects, filter = 'all') {
         if (!projectsGrid) return;
         projectsGrid.replaceChildren();
@@ -976,10 +966,18 @@ async function initLiveProjects() {
                 category,
                 categoryLabel: categoryLabels[category],
                 description: (repository.description || 'No description has been published for this repository.').replace(/\*\*/g, '').replace(/\s+/g, ' ').trim(),
-                gallery: galleryPaths[repoName] || [],
+                gallery: [],
                 repository
             };
         });
+        let nextProject = 0;
+        const imageWorkers = Array.from({ length: Math.min(6, projects.length) }, async () => {
+            while (nextProject < projects.length) {
+                const project = projects[nextProject++];
+                project.gallery = await fetchRepositoryImagePaths(project.repository);
+            }
+        });
+        await Promise.all(imageWorkers);
         if (!projects.length) throw new Error('No public repositories were returned');
         window.featuredProjects = projects;
         if (projectsGrid) projectsGrid.removeAttribute('aria-busy');
@@ -1028,6 +1026,20 @@ function getRepositoryImageUrl(repository, path) {
     const branch = encodeURIComponent(repository.default_branch || 'main');
     const encodedPath = path.split('/').map(encodeURIComponent).join('/');
     return `https://raw.githubusercontent.com/${repository.full_name}/${branch}/${encodedPath}`;
+}
+
+async function fetchRepositoryImagePaths(repository) {
+    try {
+        const response = await fetch(`https://api.github.com/repos/${repository.full_name}/git/trees/${encodeURIComponent(repository.default_branch || 'main')}?recursive=1`);
+        if (!response.ok) return [];
+        const tree = await response.json();
+        const imageFile = /\.(avif|bmp|gif|ico|jpe?g|jfif|png|svg|tiff?|webp)$/i;
+        return (tree.tree || [])
+            .filter(entry => entry.type === 'blob' && imageFile.test(entry.path))
+            .map(entry => entry.path);
+    } catch {
+        return [];
+    }
 }
 
 function createProjectLink(url, label, icon, className = '') {
@@ -1248,23 +1260,7 @@ function showProjectDetails(project) {
 }
 
 async function loadProjectGallery(project, container) {
-    let paths = project.gallery;
-    if (!paths.length) {
-        try {
-            const response = await fetch(`https://api.github.com/repos/${project.repository.full_name}/git/trees/${encodeURIComponent(project.repository.default_branch)}?recursive=1`);
-            if (!response.ok) throw new Error('Repository file list unavailable');
-            const tree = await response.json();
-            const imagePattern = /\.(avif|gif|jpe?g|png|webp)$/i;
-            const screenshotPattern = /(^|\/)(screenshots?|previews?)(\/|$)|screenshot|preview|homepage|hero/i;
-            const skipPattern = /(^|\/)(node_modules|dist|build|coverage|icons?|logos?)(\/|$)|favicon|avatar|placeholder/i;
-            paths = tree.tree
-                .filter(entry => entry.type === 'blob' && imagePattern.test(entry.path) && screenshotPattern.test(entry.path) && !skipPattern.test(entry.path))
-                .map(entry => entry.path)
-                .slice(0, 8);
-        } catch {
-            paths = [];
-        }
-    }
+    const paths = project.gallery || [];
 
     container.replaceChildren();
     if (!paths.length) {
