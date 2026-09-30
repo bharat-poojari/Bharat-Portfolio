@@ -1,0 +1,19 @@
+{
+    "name": "Bharat Poojari Portfolio",
+    "short_name": "Bharat",
+    "icons": [
+        {
+            "src": "me.png",
+            "sizes": "any",
+            "type": "image/png"
+        },
+        {
+            "src": "me.png",
+            "sizes": "any",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#176b63",
+    "background_color": "#ffffff",
+    "display": "standalone"
+}

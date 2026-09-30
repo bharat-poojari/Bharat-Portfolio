@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://bharat-poojari.vercel.app/sitemap.xml
