@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  ![Portfolio Preview](https://bharat-poojari.vercel.app/images/favicon/192x192.png)
+   ![Portfolio Preview](https://bharat-poojari.vercel.app/me.png)
 
   ### 🌟 Live Demo: [bharat-poojari.vercel.app](https://bharat-poojari.vercel.app)
 
