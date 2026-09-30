@@ -23,16 +23,18 @@
 
 ## Screenshots
 
-<div style="white-space: nowrap; overflow-x: auto; padding: 10px 0;">
-  <img src="https://raw.githubusercontent.com/bharat-poojari/Bharat-Portfolio/main/images/screenshot/Screenshot.jpg" height="250" style="display:inline-block; margin-right:10px;">
-  <img src="https://raw.githubusercontent.com/bharat-poojari/Bharat-Portfolio/main/images/screenshot/Screenshot1.jpg" height="250" style="display:inline-block; margin-right:10px;">
-  <img src="https://raw.githubusercontent.com/bharat-poojari/Bharat-Portfolio/main/images/screenshot/Screenshot2.jpg" height="250" style="display:inline-block; margin-right:10px;">
-  <img src="https://raw.githubusercontent.com/bharat-poojari/Bharat-Portfolio/main/images/screenshot/Screenshot3.jpg" height="250" style="display:inline-block; margin-right:10px;">
-  <img src="https://raw.githubusercontent.com/bharat-poojari/Bharat-Portfolio/main/images/screenshot/Screenshot4.jpg" height="250" style="display:inline-block; margin-right:10px;">
-  <img src="https://raw.githubusercontent.com/bharat-poojari/Bharat-Portfolio/main/images/screenshot/Screenshot5.jpg" height="250" style="display:inline-block; margin-right:10px;">
-  <img src="https://raw.githubusercontent.com/bharat-poojari/Bharat-Portfolio/main/images/screenshot/Screenshot6.jpg" height="250" style="display:inline-block; margin-right:10px;">
-  <img src="https://raw.githubusercontent.com/bharat-poojari/Bharat-Portfolio/main/images/screenshot/Screenshot7.jpg" height="250" style="display:inline-block;">
-</div>
+<p align="center">
+   <img src="https://raw.githubusercontent.com/bharat-poojari/Bharat-Portfolio/main/images/1.png" alt="Portfolio screenshot 1" width="49%">
+   <img src="https://raw.githubusercontent.com/bharat-poojari/Bharat-Portfolio/main/images/2.png" alt="Portfolio screenshot 2" width="49%">
+</p>
+<p align="center">
+   <img src="https://raw.githubusercontent.com/bharat-poojari/Bharat-Portfolio/main/images/3.png" alt="Portfolio screenshot 3" width="49%">
+   <img src="https://raw.githubusercontent.com/bharat-poojari/Bharat-Portfolio/main/images/4.png" alt="Portfolio screenshot 4" width="49%">
+</p>
+<p align="center">
+   <img src="https://raw.githubusercontent.com/bharat-poojari/Bharat-Portfolio/main/images/5.png" alt="Portfolio screenshot 5" width="49%">
+   <img src="https://raw.githubusercontent.com/bharat-poojari/Bharat-Portfolio/main/images/6.png" alt="Portfolio screenshot 6" width="49%">
+</p>
 
 
 ## 📋 Table of Contents
@@ -220,14 +222,9 @@ A new "Desktop Mode" has been introduced as a beta feature, transforming the por
 
 | Platform | Profile | Purpose |
 |----------|---------|---------|
-<<<<<<< HEAD
 | **GitHub** | [@bharat-poojari](https://github.com/bharat-poojari) | Code portfolio, open source |
 | **LinkedIn** | [bharat-poojari](www.linkedin.com/in/bharat-poojari-397618359) | Professional networking |
 | **Kaggle** | [bharatpoojari03](https://www.kaggle.com/bharatpoojari03) | Data science projects |
-=======
-| **GitHub** | [@bharat-poojari](https://github.com/bharat-poojari) | Code portfolio, open source |
-| **LinkedIn** | [bharat-poojari](www.linkedin.com/in/bharat-poojari-397618359) | Professional networking |
-| **Kaggle** | [bharatpoojari](https://www.kaggle.com/bharatpoojari03) | Data science projects |
 | **Email** | bharatp0316@gmail.com | Direct contact |
 
 ### **SEO Scorecard**
