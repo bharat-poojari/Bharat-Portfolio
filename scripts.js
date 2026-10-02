@@ -992,6 +992,7 @@ async function initLiveProjects() {
         if (languageCount) languageCount.textContent = new Set(publicRepositories.map(repository => repository.language).filter(Boolean)).size.toLocaleString();
         if (starCount) starCount.textContent = projects.reduce((total, project) => total + (project.repository.stargazers_count || 0), 0).toLocaleString();
         if (statsStatus) statsStatus.textContent = 'Live repository metadata from GitHub';
+        void initGithubProjectStats(projects.map(project => ({ github: project.repository.html_url })));
 
         filterButtons.forEach(button => {
             button.addEventListener('click', function() {

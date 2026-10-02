@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://bharat-poojari.vercel.app/</loc>
+    <image:image>
+      <image:loc>https://bharat-poojari.vercel.app/me.png</image:loc>
+      <image:title>Bharat Poojari</image:title>
+      <image:caption>Portrait of Bharat Poojari, full-stack developer</image:caption>
+    </image:image>
     <lastmod>2026-09-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
