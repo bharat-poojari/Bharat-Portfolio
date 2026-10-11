@@ -543,8 +543,8 @@ Currently Learning:
 
 Social Links:
 • GitHub: github.com/bharat-poojari
-• LinkedIn: linkedin.com/in/bharat-poojari
-• Kaggle: kaggle.com/bharatpoojari
+• LinkedIn: https://www.linkedin.com/in/bharat-poojari-397618359/
+• Kaggle: https://www.kaggle.com/bharatpoojari03
 
 Feel free to reach out for collaborations or opportunities!`,
             description: "Get contact info"
@@ -567,14 +567,14 @@ Feel free to reach out for collaborations or opportunities!`,
         },
         linkedin: {
             execute: () => {
-                window.open('https://linkedin.com/in/bharat-poojari', '_blank');
+                window.open('https://www.linkedin.com/in/bharat-poojari-397618359/', '_blank');
                 return 'Opening LinkedIn profile in new tab... 💼';
             },
             description: "Open LinkedIn"
         },
         kaggle: {
             execute: () => {
-                window.open('https://kaggle.com/bharatpoojari', '_blank');
+                window.open('https://www.kaggle.com/bharatpoojari03', '_blank');
                 return 'Opening Kaggle profile in new tab... 📊';
             },
             description: "Open Kaggle"
