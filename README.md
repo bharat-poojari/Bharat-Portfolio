@@ -2,11 +2,11 @@
 
 <div align="center">
   
-   ![Portfolio Preview](https://bharat-poojari.vercel.app/me.png)
+   ![Portfolio Preview](https://bharat-poojari-site.vercel.app/me.png)
 
-  ### 🌟 Live Demo: [bharat-poojari.vercel.app](https://bharat-poojari.vercel.app)
+  ### 🌟 Live Demo: [bharat-poojari.vercel.app](https://bharat-poojari-site.vercel.app)
 
-  [![Vercel Deployment](https://img.shields.io/badge/Vercel-Deployed-success?style=for-the-badge&logo=vercel)](https://bharat-poojari.vercel.app)
+  [![Vercel Deployment](https://img.shields.io/badge/Vercel-Deployed-success?style=for-the-badge&logo=vercel)](https://bharat-poojari-site.vercel.app)
   [![GitHub stars](https://img.shields.io/github/stars/bharat-poojari/Bharat-Portfolio?style=for-the-badge&logo=github)](https://github.com/bharat-poojari/bharat-Portfolio/stargazers)
   [![GitHub forks](https://img.shields.io/github/forks/bharat-poojari/Bharat-Portfolio?style=for-the-badge&logo=github)](https://github.com/bharat-poojari/Bharat-Portfolio/network)
   [![GitHub license](https://img.shields.io/github/license/bharat-poojari/Bharat-Portfolio?style=for-the-badge)](https://github.com/bharat-poojari/Bharat-Portfolio/blob/main/LICENSE)
@@ -204,13 +204,13 @@ A new "Desktop Mode" has been introduced as a beta feature, transforming the por
 
 <!-- Open Graph / Facebook -->
 <meta property="og:type" content="website">
-<meta property="og:url" content="https://bharat-poojari.vercel.app/">
+<meta property="og:url" content="https://bharat-poojari-site.vercel.app/">
 <meta property="og:title" content="Bharat Poojari | Full-Stack Developer">
 <meta property="og:description" content="Passionate full-stack developer creating innovative digital solutions...">
 
 <!-- Twitter -->
 <meta property="twitter:card" content="summary_large_image">
-<meta property="twitter:url" content="https://bharat-poojari.vercel.app/">
+<meta property="twitter:url" content="https://bharat-poojari-site.vercel.app/">
 
 <!-- Contact Information -->
 <meta name="email" content="bharatp0316@gmail.com">
@@ -366,7 +366,7 @@ of this software and associated documentation files...
 **Full-Stack Developer & Tech Explorer**
 
 [![Email](https://img.shields.io/badge/Email-bharatp0316%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:bharatp0316@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-bharat--poojari.vercel.app-blue?style=for-the-badge&logo=vercel)](https://bharat-poojari.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-bharat--poojari.vercel.app-blue?style=for-the-badge&logo=vercel)](https://bharat-poojari-site.vercel.app)
 [![GitHub](https://img.shields.io/badge/GitHub-bharat--poojari-black?style=for-the-badge&logo=github)](https://github.com/bharat-poojari)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-bharat--poojari-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/bharat-poojari-397618359/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-bharatpoojari03-blue?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/bharatpoojari03)
